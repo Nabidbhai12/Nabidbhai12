@@ -27,7 +27,13 @@ I'm currently in my third year(in 6th semester on a 8 semester system)
 
 
 ## Profile Overview
-![Profile views](https://gpvc.arturio.dev/Nabidbhai12)
+
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Nabidbhai12&label=Profile%20Views&color=1&icon=8&pretty=true" />
+</a>
+</p>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabidbhai12&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabidbhai12&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook,PLSQL,html,css)
