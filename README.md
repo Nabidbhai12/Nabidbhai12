@@ -28,11 +28,11 @@ I'm currently in my third year(in 6th semester on a 8 semester system)
 
 ## Profile Overview
 
-<p align="center">
+[![](https://visitcount.itsvg.in/api?id=Nabidbhai12&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Nabidbhai12&label=Profile%20Views&color=1&icon=8&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Nabidbhai12&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
-</p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabidbhai12&show_icons=true&theme=dark&count_private=true)
