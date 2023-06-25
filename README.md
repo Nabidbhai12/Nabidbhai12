@@ -34,6 +34,10 @@ I'm currently in my third year(in 6th semester on a 8 semester system)
 </a>
 
 
+
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabidbhai12&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabidbhai12&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook,PLSQL,html,css)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nabidbhai12&theme=dark)](https://git.io/streak-stats)
