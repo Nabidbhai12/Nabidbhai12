@@ -28,7 +28,6 @@ I'm currently in my third year(in 6th semester on a 8 semester system)
 
 ## Profile Overview
 
-[![](https://visitcount.itsvg.in/api?id=Nabidbhai12&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Nabidbhai12&label=Profile%20Views&color=3&icon=5&pretty=false" />
