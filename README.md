@@ -1,9 +1,6 @@
-# Hi there! I'm Hafijul Hoque Chowdhury (Nabid) 👋
+#Hafijul Hoque Chowdhury (Nabid) 👋
 
-I'm currently an undergraduate student of Computer Science and Engineering at BUET (Bangladesh University of Engineering and Technology).
-
-I'm currently in my third year (in the 6th semester on an 8-semester system).
-
+Hello! I am Hafijul Hoque Chowdhury, commonly known as Nabid. I'm an enthusiastic and dedicated undergraduate student pursuing a degree in Computer Science and Engineering at Bangladesh University of Engineering and Technology (BUET). Currently, I'm in my 7th semester of an 8-semester system.
 ## Languages
 
 ![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
