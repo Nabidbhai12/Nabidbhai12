@@ -1,6 +1,11 @@
 # Hafijul Hoque Chowdhury (Nabid) 👋
 
-Hello! I am Hafijul Hoque Chowdhury(my nickname is Nabid). I'm an enthusiastic and dedicated undergraduate student pursuing a degree in Computer Science and Engineering at Bangladesh University of Engineering and Technology (BUET). Currently, I'm in my 7th semester of an 8-semester system.
+I'm Hafijul Hoque Chowdhury, just cruising through my final year at CSE,BUET.
+
+- 🔭 I’m currently working on a project about ***domain specific LLM*** 
+- 🌱 I’m currently learning ***NLP*** and ***CyberSecurity***
+
+
 ## Languages
 
 ![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
@@ -21,6 +26,14 @@ Hello! I am Hafijul Hoque Chowdhury(my nickname is Nabid). I'm an enthusiastic a
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
+
+![TensorFlow](https://img.shields.io/static/v1?&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
+![Keras](https://img.shields.io/static/v1?&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
+![PyTorch](https://img.shields.io/static/v1?&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=) 
+![Django](https://img.shields.io/static/v1?&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
 <!-- Add badges or descriptions for other Web3 tools you're experienced with -->
 
 ## Profile Overview
